@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-for-dbt-big-query",
+  "private_key_id": "a4b9ba21ff715dd9ac12e5f443083929e1404cf3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4SLmeloIvtHMG\nHo619AYcmOtAYLvoEYdCrSd6lrojlZGxycPkV8zHpi9yTPY1YDKJnKxiZ5x46C1h\nyLSXrxfyX9s9kULkaeT4kJFUXee9lyGEGYJsU2HAj3PC5eFiOc4rK4kEAnF149e7\nFCacA/wMzsicJQTCgATH+PJnJk2fXlINB115XuL4WjzYapnuvUQMcsXcHdo//XBn\nOV4Mxbln6wlXkRUq4Uqle9VODPVzW0Q7TqLc6qL+6Q9D3Q5CcSAK5ddGUag7a8zh\nzP8O/8AXT7s74U/77+QfQAXgr179p851bWFNiuXJRnztg25qzU+6EAY4cHSUw44v\ntk8hcxQdAgMBAAECggEABM0kROz/9FU7v/eQ2U3D0P/s9S7wBmJah1Kymh+ONvoh\nIyQyHeNpuvPp/Yzix0470tkJpsCzU3UdJZSQm/kcYxy7PhXoS8I0jINbvfp6XLaw\n0VvGyaK8g8NZDUVnA2OlKvvF5JxZr2whxUaHoP37lavXjzXps1WZikpCqoxVbmb/\n3orsVt44yt3l1RKErDmJHunvt75a99DGqvlYax4bAQXwFmXHwHWkewvDOzB/VwhW\nMwps5+5pYq6l3YsDnpPVKO+K3HGpypBXSe4CIx10X6UFffx7ixISH2izwSpM1Mma\nYfeUjVeuB7jqFQs0DouKCtvD2AKZwtkzwpdFhjSEgQKBgQDmuqf2DBAYb4183opQ\n7BTxC1VwYsr2UoqpxW49oh6WbXkGiScxhJyAnrFGChwvBSJIsu7dAR0Af75tVbAC\nrWoGdr/mqMr86YBV8sFCAL8zv0ttCT3u+OwlmzKQb1AfP8o1dUIbUL3dyG2zsgIE\nFGp2VtJu+eN3QolDXbsD+cQWQQKBgQDMd8998oIxJV6sfXWTVm9zPwaZqeOc6V0d\nLV+R/eCdhi+TqQbXGDqaZYItq5SkBJKan5gUESEr4/y/b/Sl/jVkRufTYbOcqwgM\nOGP13ANOCMvWZ7dQljnDipnEBj29qsKCpqsVRdr+WQMYQAkVhD/UAXE101yFwyDJ\n1tl3wwBe3QKBgQDTBjzASOAfuUdKwa73vDSbEaafF3xSNcQk6jGdpT0ckBt04tQ5\n8fPBn2K7kFuela95lk3pTC9eWXetQAWvLTQfnVR+fjrJfjamZVRkLZKynW861o0S\nmBBDhOKGP4ikTA+BPTGtEffVdI8BHvnBCXslqNrmLR7h4LTyLDPzuuihAQKBgFYf\n3Ulq3cX/vKohSmYeUWGU2Z3ePp64eV0x4ICpFHSlseKbnuL5NK4WNcgw7rJLrsjs\nkm1ZbcSECtFEQiOtOSYc68dQ7wv9yq0DD6/e1ZGICPwtwbxzGq+v8ObtzhHXHIlV\n1NhoDT93lOMhDfJ/Ozd8yAfpGJ7LO0NpeT6F5+ENAoGBAI5cJhChncxYkOqDYxMr\nIGZ3muybb9JW1y3h3faSx5jP8W5NsHtEY8TOxH3rFFjOWhEzEh5g0HCOa7jgO8Bo\nhuUipvCdDZZKFwwxTha4MbOB9igBkXPaRrvG3tzyjZpqKArCJez8J42uUl3s99SA\nAIH5oF3zotR0MG038JEzGHpX\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-user@project-for-dbt-big-query.iam.gserviceaccount.com",
+  "client_id": "103093653967916210440",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-user%40project-for-dbt-big-query.iam.gserviceaccount.com"
+}
