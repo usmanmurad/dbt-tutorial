@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: customers
+    description: One record per customer with fields from orders
+    columns:
+      - name: customer_id
+        description: primary key of the model
+        tests:
+          - unique
+          - not_null

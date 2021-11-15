@@ -12,3 +12,6 @@ jaffle_shop: # this needs to match the profile: in your dbt_project.yml file
       timeout_seconds: 300
       location: US
       priority: interactive
+
+
+# export DBT_PROFILES_DIR=/Users/usmanmurad/PycharmProjects/dbt-tutorial/dbt-tutorial/.dbt/
